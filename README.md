@@ -23,13 +23,13 @@ I'm a 2nd Year Computer Science Student based in Cebu City. I love building thin
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=milkuiii&show_icons=true&theme=radical)
+[![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkuiii)](https://github.com/milkuiii/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkuiii&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/[YOUR-LINKEDIN]](https://www.linkedin.com/in/sophialogarta/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialogarta/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR-TWITTER])
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
