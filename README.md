@@ -23,9 +23,9 @@ I'm a 2nd Year Computer Science Student based in Cebu City. I love building thin
 
 ### 📈 GitHub Stats
 
-[![milkuiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkuiii)](https://github.com/milkuiii/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkuiii&layout=compact&theme=radical)
+![Milkuii's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkuiii&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkuiii&layout=compact&theme=radical)
 ---
 
 ### 🤝 Connect with Me
