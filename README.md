@@ -1,7 +1,7 @@
-# Hi there, I'm Milkuii! 👋
+# Hi there, I'm Sophia! 👋
 
 ### 🚀 About Me
-I'm a 2nd Year Computer Science Student based in Cebu City. I love building things that solve real-world problems and exploring the frontiers of **[Interest 1]** and **[Interest 2]**.
+I'm a 2nd Year Computer Science Student based in Cebu City. I love building things that solve real-world problems and exploring the frontiers of **[Interest 1]** and **[Interest 2]**. [This README is a work in progress :) ]
 
 * 🔭 I’m currently working on **[Project Name]**
 * 🌱 I’m currently learning **[Technology or Language]**
